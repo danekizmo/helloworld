@@ -1,4 +1,3 @@
 # helloworld
-this is a test
 
-I will commit to commit for buds
+Hello my name is dane and i will commit
